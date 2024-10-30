@@ -1,4 +1,4 @@
-{{[some_other_file.txt](https://github.com/MLS-Toobox/.github/blob/main/profile/README.md)}}
+{{https://github.com/MLS-Toobox/.github/blob/main/profile/README.md}}
 
 
 ----------------------------------
