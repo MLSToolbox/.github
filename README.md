@@ -1,4 +1,4 @@
-{{https://github.com/MLS-Toobox/.github/blob/main/profile/README.md}}
+#include "./profile/README.md"
 
 
 ----------------------------------
