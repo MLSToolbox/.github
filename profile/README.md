@@ -1,5 +1,5 @@
-# MLS-Toolbox
-Repository with general information about MLS-Toolbox. The aim of MLS-Toolbox is provide a set of tools to support the development of Machine Learning Systems (MLS).
+# MLSToolbox
+Repository with general information about MLSToolbox. The aim of MLSToolbox is provide a set of tools to support the development of Machine Learning Systems (MLS).
 
 # Documentation
 
