@@ -7,7 +7,7 @@ You can find all the information you need in our [WIKI!](https://github.com/MLST
 
 # Components
 | Repository | Description |
-| ---| ---- | ----------- |
+| ---------- | ----------- |
 | [mls_toolbox_client](https://github.com/MLSToobox/mls_toolbox_client) | An Angular-based component for displaying the graphical interface and for requesting the services provided by the MLSToolbox tools|
 | [mls_toolbox_server](https://github.com/MLSToobox/mls_toolbox_server) |  A Flask-based component for redirecting the mls_toolbox_client requests to the services provided by the MLSToolbox tools |
 | [mls_code_generator](https://github.com/MLSToobox/mls_code_generator) |  A Python component for mainly generating Python code for the ML pipelines represented in the editor |
