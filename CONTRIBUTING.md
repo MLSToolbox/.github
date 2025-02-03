@@ -9,7 +9,7 @@ There are several ways to contribute to MLSToolbox
 
 # Give us your feedback
 
-We are interested in your opinion about the MLSToolbox. You can submit an issue report in the corresponding GitHub repository.
+We are interested in your opinion about the MLSToolbox. You can submit an issue report in the corresponding GitHub repository or send a mail to [mlstoolbox-request@mylist.upc.edu](mailto:mlstoolbox-request@mylist.upc.edu).
 
 You can find some details for submitting an issue report in the [last section of this file](https://github.com/MLS-Toobox/mls_toolbox/blob/main/CONTRIBUTING.md#how-to-submit-an-issue-report).
 
