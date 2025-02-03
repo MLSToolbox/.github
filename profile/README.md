@@ -3,7 +3,7 @@ Repository with general information about MLSToolbox. The aim of MLSToolbox is t
 
 # Documentation
 
-You can find all the information you need in our [WIKI!](https://github.com/MLSToobox/mls_toolbox/wiki).
+You can find all the information you need in our [WIKI!](https://github.com/MLSToolbox/.github/wiki).
 
 # Code Repositories
 | Repository | Description |
