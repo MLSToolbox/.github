@@ -17,4 +17,9 @@ You can find all the information you need in our [WIKI!](https://github.com/MLST
 | [mls_code_assessment](https://github.com/MLS-Toobox/mls_code_assessment) |  A Python component for assessing the quality of Python ML pipelines manually implemented |
 
 # Contributing
-See the MLSToolbox Contribution Guidelines [here](https://github.com/MLS-Toobox/mls_toolbox/blob/main/CONTRIBUTING.md).
+
+You can find the MLSToolbox Contribution Guidelines [here](https://github.com/MLS-Toobox/mls_toolbox/blob/main/CONTRIBUTING.md).
+
+# Code of Conduct
+
+You can find the MLSToolbox Code of Conduct [here](https://github.com/MLSToolbox/.github/blob/main/CODE_OF_CONDUCT.md)
