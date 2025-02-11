@@ -26,7 +26,7 @@ Developers can contribute to add new features to the mls_lib, including new task
 Before submitting new code
 - Please make sure that you’re respecting the license of the corresponding component, adding the corresponding headers to the new files.
 - Always create a new feature branch for your code contribution based on the master branch.
-- If your contribution is realted to a known issues, please include a reference to the issue in the commit comment.
+- If your contribution is related to a known issues, please include a reference to the issue in the commit comment.
 
 # Documenting
 If you think that something in the documentation can be improved, open a issue in the corresponding GitHub repository.
