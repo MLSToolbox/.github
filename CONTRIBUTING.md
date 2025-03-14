@@ -17,7 +17,7 @@ You can find some details for submitting an issue report in the [last section of
 
 Test MLSToolbox functionalities and report bugs opening issues in the corresponding GitHub repository. It is important to report bugs correctly giving the sufficient detail to reproduce them.
 
-You can find some details for submitting an issue report in the [last section of this file](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md#how-to-submit-an-issue-report).
+You can find some details for submitting an issue report in the [last section of this file](https://github.com/MLSToolbox/.github/blob/main/CONTRIBUTING.md#how-to-submit-an-issue-report).
 
 # Contributing with Code
 
