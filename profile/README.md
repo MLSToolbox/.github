@@ -17,7 +17,7 @@ You can find all the information you need in our [WIKI!](https://github.com/MLST
 | [mls_code_assessment](https://github.com/MLS-Toobox/mls_code_assessment) |  A Python component for assessing the quality of Python ML pipelines manually implemented |
 
 # Demos
-This video shows how to use the MLSToolbox Pipeline Code generator to define a pipeline and generate the code to generate the model. More details about the example used in this video are available at [mls_code_generator Wiki](https://github.com/MLSToolbox/mls_code_generator/wiki/Diabetes-prediction)
+This video shows how to use the MLSToolbox Pipeline Code generator to define a pipeline and generate the code to generate the model. More details about the example used in this video are available at [mls_code_generator Wiki](https://github.com/MLSToolbox/mls_code_generator/wiki/Diabetes-prediction).
 
 https://github.com/user-attachments/assets/5c783523-529b-4cee-a7e6-7fc400e53633
 
