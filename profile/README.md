@@ -21,6 +21,8 @@ This video shows how to use the MLSToolbox Pipeline Code generator to define a p
 
 https://github.com/user-attachments/assets/5c783523-529b-4cee-a7e6-7fc400e53633
 
+You can find more videos at [mls_code_generator Wiki](https://github.com/MLSToolbox/mls_code_generator/wiki/Videos).
+
 # Contributing
 
 You can find the MLSToolbox Contribution Guidelines [here](https://github.com/MLS-Toobox/mls_toolbox/blob/main/CONTRIBUTING.md).
